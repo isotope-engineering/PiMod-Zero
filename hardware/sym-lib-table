@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Connector-ML)(type Legacy)(uri ${KIPRJMOD}/symbols/Connector-ML.lib)(options "")(descr ""))
+  (lib (name rfmod)(type Legacy)(uri ${KIPRJMOD}/symbols/rfmod.lib)(options "")(descr ""))
+)

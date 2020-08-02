@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM2519A
+D RF Modulator, DMP8
+K rf video mosulator
+F ====
+$ENDCMP
+#
+#End Doc Library
