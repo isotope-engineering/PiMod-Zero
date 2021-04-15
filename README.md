@@ -2,7 +2,7 @@ The PiMod Zero brings old tech back to life by allowing a Raspberry Pi Zero to d
 
 In the past, you would have needed a cumbersome RF modulator box to adapt the HDMI signal from a Pi Zero. Now, with this convenient HAT snapped on top of your Pi Zero, no additional dongles are required. In fact, once the Pi is powered up, the only other cable you need is a piece of coax to connect the PiMod Zero to your TV.
 
-![](images/pimod-zero.jpg)
+![](images/pimod-zero.png)
 
 ## Features
 - Supports color and B&W video
