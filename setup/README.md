@@ -13,7 +13,7 @@ First things first, you'll have to solder the headers to their respective locati
 - Tune the inductor on the PiMod until the buzzing is silent
 - ssh into pi
 - `sudo apt install pulseaudio`
-- Add lines to /boot/config.txt, something like this:
+- Add the following lines to /boot/config.txt:
 ```
 dtoverlay=pwm-2chan,pin=18,func=2,pin2=19,func2=2
 dtoverlay=audremap,enable_jack=on
