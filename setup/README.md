@@ -6,7 +6,7 @@ First things first, you'll have to solder the headers to their respective locati
 
 ## Software Setup
 
-- Flash MicroSD Card with fresh Raspberrian image
+- Flash MicroSD Card with fresh Raspbian image
 - Install shield and power up, connect to TV
 - Video should automatically display on the TV
 - Turn TV volume up, you should hear a buzzing noise
