@@ -23,4 +23,4 @@ In the past, you would have needed a cumbersome RF modulator box to adapt the HD
 - Power draw: 100 mW 
 
 ## Getting Started
-Setup info and scripts will be added soon
+Check out the [Setup directory](/setup).
