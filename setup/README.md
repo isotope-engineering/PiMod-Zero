@@ -2,7 +2,7 @@
 
 ## Hardware Assembly
 
-First things first, you'll have to solder the headers to their respective locations on the PiMod Zero and your Raspberry Pi Zero. Once that is done, you can proceed to software setup.
+First things first, you'll have to solder the headers (J1 and J2) to their respective locations on the PiMod Zero, and solder their counterparts to your Raspberry Pi Zero. Once that is done, you can proceed to software setup.
 
 ## Software Setup
 
